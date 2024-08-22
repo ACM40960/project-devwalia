@@ -172,6 +172,9 @@ The color distribution plots show distinct characteristics for each class. The "
 PCA analysis demonstrates clear separation between the "Closed" and "Open" classes, indicating that the features are effective in distinguishing these states. The "Closed" and "Open" classes cluster distinctly along Principal Component 1, which is crucial for their differentiation. However, there is notable overlap between the "No Yawn" and "Yawn" classes, suggesting shared features that make them harder to distinguish. The variability within clusters, such as in the "Open" class, points to differences in image conditions, underscoring the need for further refinement to improve class separation and model accuracy.
 ## Implementation Details
 
+<img width="398" alt="Screenshot 2024-08-22 at 11 53 10 AM" src="https://github.com/user-attachments/assets/4550512e-dab6-4a9a-b559-60f35af4cbd8">
+
+
 ### 1. Data Ingestion
 
 The data ingestion process is a crucial first step in developing the Driver Drowsiness Detection System. This step involves several key operations that prepare the raw data for model training and evaluation. The primary focus is on detecting and extracting relevant features from the input images, specifically focusing on the driver's facial region.
@@ -305,6 +308,11 @@ The Driver Drowsiness Detection System employs a Convolutional Neural Network (C
 **Total params:** 495,140 (1.89 MB)  
 **Trainable params:** 495,140 (1.89 MB)  
 **Non-trainable params:** 0 (0.00 Byte)
+
+**Mode2: Using VIT**
+<img width="288" alt="Screenshot 2024-08-22 at 11 54 23 AM" src="https://github.com/user-attachments/assets/13ab4ee2-a071-4dd1-a974-175b6bfb2272">
+
+
 
 ### Performance Summary
 ![img](img/training.png)
