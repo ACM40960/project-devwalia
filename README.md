@@ -311,7 +311,7 @@ The Driver Drowsiness Detection System employs a Convolutional Neural Network (C
 
 
 
-**Mode2: Using VIT**
+**Model 2: Using VIT**
 
 
 <img width="288" alt="Screenshot 2024-08-22 at 11 54 23 AM" src="https://github.com/user-attachments/assets/13ab4ee2-a071-4dd1-a974-175b6bfb2272">
