@@ -369,3 +369,10 @@ The real-time drowsiness detection system utilizes a Convolutional Neural Networ
 
 8. **Exiting the Application:**
    - The application continues to monitor the driver's eyes until the user presses the 'q' key, at which point the video stream is released, and all OpenCV windows are closed.
+
+
+### Results:
+The model provides a critical safety measure by detecting drowsiness in real-time, potentially
+preventing accidents caused by fatigued driving.
+
+<img width="662" alt="Screenshot 2024-08-22 at 11 43 15 AM" src="https://github.com/user-attachments/assets/913579f8-abfc-456d-a19c-a95b904878bd">
