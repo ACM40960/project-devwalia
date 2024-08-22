@@ -309,7 +309,11 @@ The Driver Drowsiness Detection System employs a Convolutional Neural Network (C
 **Trainable params:** 495,140 (1.89 MB)  
 **Non-trainable params:** 0 (0.00 Byte)
 
+
+
 **Mode2: Using VIT**
+
+
 <img width="288" alt="Screenshot 2024-08-22 at 11 54 23 AM" src="https://github.com/user-attachments/assets/13ab4ee2-a071-4dd1-a974-175b6bfb2272">
 
 
